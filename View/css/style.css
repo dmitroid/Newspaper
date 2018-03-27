@@ -1,0 +1,11 @@
+
+.price-cheap {
+font-size: 20px;
+color: red;
+}
+#cupon {
+display: none;
+text-align: center;
+color: white;
+background-color: #3366CC;
+}
